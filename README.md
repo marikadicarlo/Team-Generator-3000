@@ -53,7 +53,7 @@ Use inquirer from your command line to answer questions about your project.
 Contributors should read the installation section.
 
 ## Tests
-`index.js`
+`node index.js`
 
 ## Questions
 Contact me with any questions at <mdicarlo19@yahoo.com> or [visit my GitHub page](https://github.com/marikadicarlo)
