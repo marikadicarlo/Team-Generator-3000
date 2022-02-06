@@ -1,6 +1,6 @@
 # Team-Generator-3000
 
-![Click here for Video](https://drive.google.com/file/d/1WIHNCbb1W0bdD8oVBub5FxOIo1o9grJl/view)
+[Click here for Video](https://drive.google.com/file/d/1WIHNCbb1W0bdD8oVBub5FxOIo1o9grJl/view?usp=sharing)
 
 ## Description
 This application was built using Node.js commant-line that will take in information about emloyees on a software engineering team and generates an HTML webpage that displays summaries for each person.
